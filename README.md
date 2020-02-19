@@ -1,2 +1,2 @@
 # Data-Viz
-general code sharing for data visualization
+This folder has been created as a place to share code that has been written for data visualizations. 
